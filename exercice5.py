@@ -2,7 +2,7 @@
 """
 Created on Thu Oct  8 15:22:06 2020
 
-@author: Henri
+@author: Mehdi
 """
 
 import random
